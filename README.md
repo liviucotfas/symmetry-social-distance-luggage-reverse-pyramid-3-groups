@@ -7,7 +7,7 @@ Please feel free to contact us at liviu.cotfas at ase .ro for further details.
 ## Boarding Situations
 
 All the simulations have been performed using the following settings:
-- occupancy level: 100% (120 passengers).
+- occupancy level: all aisle and window seats are occupied (120 passengers).
 
 > Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
